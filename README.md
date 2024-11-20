@@ -16,12 +16,12 @@
 ## Screenshots
 
 Here are some screenshots of **SoulSounds**:
-
-![Home Screen](path/to/screenshot1.png)
-*Main screen featuring different meditation music options.*
-
-![Affirmations Screen](path/to/screenshot2.png)
-*Affirmations screen with a selection of positive affirmations.*
+ 
+![WhatsApp Image 2024-11-20 at 09 13 25_f7eab1a0](https://github.com/user-attachments/assets/0c3beada-23d6-4b62-b1b7-7b3d7cfafa71)
+![WhatsApp Image 2024-11-20 at 09 13 24_7c733cab](https://github.com/user-attachments/assets/782b1c19-b156-4590-8c78-9efbdc65a147)
+![WhatsApp Image 2024-11-20 at 09 13 24_5e25ef01](https://github.com/user-attachments/assets/49ea18d2-ee49-436a-b68b-e3c2da077cef)
+![WhatsApp Image 2024-11-20 at 09 13 23_a0138e8d](https://github.com/user-attachments/assets/9281bdd0-8074-4775-ba4e-6b1f7140a56e)
+![WhatsApp Image 2024-11-20 at 09 13 23_a64a986e](https://github.com/user-attachments/assets/0da9f611-a096-456f-936f-d9a7a436cfe4)
 
 ---
 
@@ -30,61 +30,6 @@ Here are some screenshots of **SoulSounds**:
 Check out the demo video of **SoulSounds** in action:  
 [Watch the Demo](link_to_video)
 
----
 
-## Installation
+Uploading WhatsApp Video 2024-11-20 at 09.18.38_ae0c77da.mp4…
 
-To install and run the **SoulSounds** app on your local machine, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/soulsounds.git
-Navigate into the project directory:
-
-bash
-Copy code
-cd soulsounds
-Install the dependencies:
-
-bash
-Copy code
-npm install
-Run the app:
-
-For Android:
-bash
-Copy code
-npx react-native run-android
-For iOS:
-bash
-Copy code
-npx react-native run-ios
-Technologies Used
-React Native: Framework used for building the app for both Android and iOS platforms.
-Audio Playback: For seamless and continuous music and affirmation playback.
-State Management (Optional): Mention any state management libraries used (e.g., Getx, Redux, etc.)
-Other Libraries: List any other libraries or tools used for features like navigation, audio, etc.
-Contributing
-We welcome contributions to improve the SoulSounds app! Feel free to fork the repository and submit pull requests. If you have any ideas, issues, or suggestions, please open an issue or contribute directly.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgements
-Thanks to the React Native community for building such a powerful framework.
-The sound assets used in the app are provided by [Insert Source or License Info].
-vbnet
-Copy code
-
-### Key Improvements:
-1. **Section Headers**: Divides the README into clear sections for easy reading.
-2. **Installation Instructions**: Clear steps to get the app running on local machines.
-3. **Demo & Screenshots**: Direct the user to a demo video and show the app’s interface with images.
-4. **Technologies & Acknowledgements**: Lists the technologies used and acknowledges any external resources.
-
-### Next Steps:
-- Replace `path/to/screenshotX.png` with actual image paths or links to your screenshots.
-- Include the demo video link where it says `link_to_video`.
-- Add any relevant credits under Acknowledgements if applicable.
-
-This structure should give your **GitHub README** a professional look. Let me know if you'd
